@@ -148,9 +148,9 @@ Stretch Questions
     block element will fill the entire space whereas inline won't
 
     2. What happens when an element is positioned absolutely? 
-???
+??? Need to study position *** 
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
-??? use div as a container
+    use div as a container
 
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
     Block: h1 - h6, p, section, div, nav. Inline: a, span. Inline-block: button
